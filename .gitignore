@@ -1,4 +1,7 @@
-.venv
+venv
 .idea
 app_design.png
 .env
+__pycache__
+*.pyc
+
